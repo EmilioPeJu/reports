@@ -1,0 +1,9 @@
+<testsuites name="results">
+  <testsuite name="all" package="all">
+    <property name="random_seed" value="1771946422" />
+    <testcase name="can_run" classname="test_oct_finedelay" file="/home/user/work/panda2-finedelay/dev-tests/test_oct_finedelay.py" lineno="20" time="0" sim_time_ns="0" ratio_time="0">
+      <skipped />
+    </testcase>
+    <testcase name="simple_signal" classname="test_oct_finedelay" file="/home/user/work/panda2-finedelay/dev-tests/test_oct_finedelay.py" lineno="48" time="0.005915403366088867" sim_time_ns="578.0" ratio_time="97711.00366772803" />
+  </testsuite>
+</testsuites>
